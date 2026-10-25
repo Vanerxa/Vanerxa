@@ -34,7 +34,19 @@ I build responsive website experiences and explore the systems behind them—fro
 
 **Built with:** HTML, CSS and JavaScript, with responsive layouts and reduced-motion handling.
 
-## Backend examples
+## Small API exercises
+
+Three straightforward examples focused on HTTP, JSON and basic validation. They run together in a small local Node.js app with no external dependencies.
+
+| Example | What it does |
+| --- | --- |
+| **Task API** | Add a task, list tasks, mark one complete and delete it |
+| **Notes API** | Create, read, edit and delete short notes |
+| **Product catalog API** | List sample products, filter by category and look up a product |
+
+Five HTTP tests pass for these exercises. Data stays in memory and resets on restart. These are simple local demos; they do not contain real customer data or connect to production services. Implementation source is private and available for review by invitation.
+
+## Further backend examples
 
 These are separate, locally runnable portfolio projects. They are not connected to the public salon demos or Vanerxa's customer systems.
 

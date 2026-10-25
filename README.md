@@ -8,6 +8,17 @@ I build responsive website experiences and explore the systems behind them—fro
 
 ## Selected website projects
 
+### Vanerxa — digital services platform
+
+**[Visit the website →](https://vanerxa.com/)**
+
+- React interface components and routed service pages.
+- Interactive website experiences with scroll-controlled media.
+- Project work spanning Node.js/Express backend features and MySQL functionality.
+- Linux hosting, SSH deployment and scripting for recurring website operations.
+
+**Focus:** frontend web development, practical backend features and application maintenance. This is separate from the small, locally runnable API exercises below.
+
 ### Petal — nail studio concept
 
 [![Petal nail studio: interactive nail previews and skin-tone selection](petal-preview.png)](https://vanerxa.com/examples/nails/)
